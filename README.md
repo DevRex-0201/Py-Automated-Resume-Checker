@@ -4,6 +4,8 @@
 
 The Automated Resume and Database Matching System is an advanced tool designed to streamline the recruitment process by automatically identifying and scoring potential matches between candidates' resumes and job requirements stored in a database. This Python-based application supports a wide array of document formats, including `.docx`, `.pdf`, and `.doc` for resumes, as well as `.xlsx` and `.csv` for database entries. It leverages several powerful libraries to manipulate data, process documents, and provide a user-friendly graphical interface for easy operation. Ideal for HR departments and recruitment agencies, this tool significantly reduces manual workload by automating the match-making process.
 
+![Project Image Overview](https://github.com/DevRex-0201/Project-Images/blob/main/Py-Automated-Resume-Checker.png)
+
 ## Key Features
 
 - **Comprehensive File Format Support**: Seamlessly processes resumes in `.docx`, `.pdf`, and `.doc` formats, and interacts with databases in `.xlsx` or `.csv` formats.
